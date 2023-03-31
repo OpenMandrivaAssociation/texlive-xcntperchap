@@ -1,6 +1,6 @@
 Name:		texlive-xcntperchap
 Version:	54080
-Release:	1
+Release:	2
 Summary:	Track the number of subsections etc. that occur in a specified tracklevel
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xcntperchap
