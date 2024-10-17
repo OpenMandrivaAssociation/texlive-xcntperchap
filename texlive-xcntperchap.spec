@@ -3,7 +3,7 @@ Version:	54080
 Release:	2
 Summary:	Track the number of subsections etc. that occur in a specified tracklevel
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xcntperchap
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/xcntperchap
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xcntperchap.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xcntperchap.doc.r%{version}.tar.xz
